@@ -1,0 +1,41 @@
+ a {
+    text-decoration: none;
+ }
+
+ .destroy-form button{
+   background-color: #dc3545;
+ }
+
+.create-button.item-button {
+   color:rgb(0, 0, 0);
+}
+
+.create-button.item-button:hover {
+   text-decoration: none;
+}
+
+.category-items-btn {
+   color: rgb(85, 85, 255);
+   text-decoration: underline;
+}
+
+.category-items-btn:hover {
+   text-decoration: none;
+}
+
+.nav-links.navs:hover{
+   text-decoration: none;
+}
+
+ 
+ .daftar-order h1 {
+   border-bottom: 1px solid black;
+ }
+
+ .order-list {
+   border:solid black 1px;
+   padding:20px;
+   margin-top:20px;
+   overflow: scroll;
+   height: 180px;
+ }
